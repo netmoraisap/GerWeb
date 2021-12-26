@@ -9,4 +9,4 @@ Acesse o NeoWb em: https://www.netmorais.com.br:51443/neo/neo-s01.htm
 Para utilizar é necessário o conhecimento mínimo de Html, Php e linha de comando 
 em Linux.
 
-Dúvidas, sugestões ou críticas, por favor, envie email para: naetmoraisap@gmail.com
+Dúvidas, sugestões ou críticas, por favor, envie email para: netmoraisap@gmail.com
